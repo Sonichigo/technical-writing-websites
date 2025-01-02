@@ -443,7 +443,7 @@ This list provides a curated collection of companies offering paid writing progr
 [Technical-Writing-Resources](https://github.com/CynthiaPeter/Technical-Writing-Resources)
 > A collection of blogpost, resources, and links that has helped me in my journey as a technical writer. I still refer to them and contribute to the list as I find more.
 
-[jekyll-theme-chirpy](chirpy.cotes.page)
+[jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 > Technical Writing Theme
 
 [awesome-technical-writing-learning](https://github.com/wongyah/awesome-technical-writing-learning)
@@ -455,7 +455,7 @@ This list provides a curated collection of companies offering paid writing progr
 * [The Cherryleaf Podcast](https://www.cherryleaf.com/podcast/)
 * [The Content Strategy Experts](https://www.scriptorium.com/content-strategy-experts-podcast)
 * [Write the Docs Podcast](https://podcast.writethedocs.org/)
-* [I’d Rather Be Writing](/podcasts)
+* [I’d Rather Be Writing](https://idratherbewriting.com/podcasts/)
 * [Wireframe](https://podcasts.apple.com/us/podcast/wireframe/id1437677219)
 * [The Not Boring Tech Writer](https://www.thenotboringtechwriter.com/)
 * [10 Minute Tech Comm](https://www.stitcher.com/podcast/uah-technical-writing/10minute-tech-comm)
