@@ -264,9 +264,6 @@ This list provides a curated collection of companies offering paid writing progr
 [Fauna](https://fauna.com/blog/write-with-fauna) - $200-$500 per piece
 > Technical tutorials and articles about databases, serverless technologies, and web development.
 
-[Hashnode](https://hashnode.com/ambassador) - $200 per piece
-> Technical articles and tutorials about web development, programming languages, and developer tools.
-
 [LogRocket](https://blog.logrocket.com/become-a-logrocket-guest-author/) - $350 per piece
 > Technical tutorials and articles about front-end development, performance monitoring, and debugging.
 
